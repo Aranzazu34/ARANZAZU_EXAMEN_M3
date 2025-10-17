@@ -1,0 +1,32 @@
+$ git log --decorate
+commit 20c603a01ad1b8b809fe036f771305ce5c5464bd (HEAD -> main, origin/main, origin/HEAD)
+Author: Aranzazu34 <aranzazuprag@gmail.com>
+Date:   Fri Oct 17 19:57:51 2025 +0200
+
+    quinto commit
+
+commit a65d4785afc51f769e49cc88f40fc63fc39fb44e
+Author: Aranzazu34 <aranzazuprag@gmail.com>
+Date:   Fri Oct 17 19:35:30 2025 +0200
+
+    segundo commit
+
+commit 4af68bbaf4dddc4c724e4f15fb44ce09c0d89b3e
+Author: Aranzazu34 <aranzazuprag@gmail.com>
+Date:   Fri Oct 17 19:24:05 2025 +0200
+
+    primer commit
+
+commit e546e0f2f923bf0d73f064cc5b96fe7452125075
+Author: Aranzazu34 <aranzazuprag@gmail.com>
+Date:   Fri Oct 17 19:19:14 2025 +0200
+
+    Add files via upload
+
+
+
+
+
+https://github.com/Aranzazu34/git-desde-GitBash
+
+

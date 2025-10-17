@@ -1,0 +1,78 @@
+git init
+git clone https://github.com/Aranzazu34/git-desde-GitBash
+git branch
+cd git-desde-GitBash/
+git branch
+nano info.txt
+ls
+git commit -m "primer commit"
+git add .
+git commit -m "primer commit"
+git status
+git push -u origin main
+nano info.txt
+cat info.txt
+git push
+git commit -m "segundo commit"
+git add .
+git add
+git diff
+git commit -a
+git commit -a
+git status
+git branch
+git add info.txt
+git commit -m "segundo commit"
+git push
+git checkout -b rama2
+git branch
+ls
+nano info.txt
+cat info.txt
+git commit -m "tercer commit"
+git add .
+git branch
+git add info.txt
+git commit -m "tercer commit"
+git push --set-upstream origin rama2
+git checkout -b rama3
+git status
+git branch
+ls
+nano info.txt
+cat info.txt
+git add info.txt
+git commit -m "cuarto commit"
+git merge rama2
+git branch
+git checkout main
+git checkout rama3
+git add .
+git commit -m "quinto commit"
+git branch
+git checkout main
+git branch
+cat info.txt
+git checkout rama2
+cat info.txt
+git checkout rama3
+cat info.txt
+git branch
+git main
+git checkout main
+git branch
+git checkout rama3 -- info.txt
+git add info.txt
+git commit -m "quinto commit"
+cat info.txt
+git branch
+git branch -D rama2
+git branch -D rama3
+git branch
+git push -u origin main
+git log
+git log --decorate
+nano git_logs.txt
+nano git_logs.txt
+cat git_logs.txt 
+history -a Aranzazu.txt
