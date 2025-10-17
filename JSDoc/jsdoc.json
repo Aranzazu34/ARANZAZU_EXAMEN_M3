@@ -1,0 +1,16 @@
+{
+  "source": {
+    "include": ["funciones.js"],
+    "includePattern": ".+\\.js(doc|x)?$|.+\\.md$",
+    "excludePattern": "(^|\\/|\\\\)_"
+  },
+  "opts": {
+    "destination": "./docs",
+    "recurse": true
+  },
+  "templates": {
+    "default": {
+      "includeDate": false
+    }
+  }
+}
